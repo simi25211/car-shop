@@ -3,7 +3,8 @@
 This is a simple online car shop project where users can view cars, add them to the cart, and check details.
 
 ## Demo
-[Click here to view the live demo](https://simi25211.github.io/car-shop)  <!-- Replace this when you set up GitHub Pages -->
+https://simi25211.github.io/car-shop
+
 
 ## Features
 - Browse cars

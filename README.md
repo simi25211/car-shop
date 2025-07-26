@@ -12,5 +12,10 @@ This is a simple online car shop project where users can view cars, add them to 
 - Responsive design
 
 ## How to Use
-1. Clone this repository:
+1. Clone this repository:git clone https://github.com/simi25211/car-shop.git
+
+markdown
+Copy
+Edit
+
 2. Open `index.html` in your browser.
